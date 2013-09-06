@@ -1,0 +1,3 @@
+== BLOG SYSTEM
+
+This will be my future blog.
